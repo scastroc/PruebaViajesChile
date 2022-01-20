@@ -20,3 +20,15 @@ body {
     padding-right: 7px;  
 }
 
+#principal{
+    color: white;
+}
+
+#iconos{
+    color: white;
+}
+
+#iconos a{
+    color:#ffffff;
+    text-decoration: none;
+}
