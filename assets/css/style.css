@@ -1,4 +1,22 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto", sans-serif;
+  }
+
 .navbar{
     padding-left: 80px;
     padding-right: 80px;
 }
+
+#footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+#footer i{
+    padding-left: 7px;
+    padding-right: 7px;  
+}
+
