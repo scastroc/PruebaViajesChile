@@ -1,12 +1,32 @@
 body {
-    margin: 0px;
-    padding: 0px;
+    margin: 0%;    
     font-family: "Roboto", sans-serif;
   }
 
 .navbar{
     padding-left: 80px;
     padding-right: 80px;
+}
+
+.card{
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.card-text p{
+    text-align: left;
+}
+
+.card-title h5{
+    text-align: left;
+}
+
+.card-img-top{
+    max-height: 10rem;
 }
 
 #footer{
@@ -31,4 +51,33 @@ body {
 #iconos a{
     color:#ffffff;
     text-decoration: none;
+}
+
+#titulo{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 25px;
+  }
+
+#card_qs{
+    max-width: 22rem;
+}
+
+#tarjetas article{
+    align-items: center;
+    justify-content: center;
+}
+
+
+#tarjetas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 55vh;
+}
+
+#formulario{
+    padding-top: 10px;
+    padding-bottom: 35px;
+    text-align: left;
 }
