@@ -53,10 +53,22 @@ body {
     text-decoration: none;
 }
 
-#titulo{
+#titulo1{
     text-align: center;
     padding-top: 40px;
-    padding-bottom: 25px;
+    padding-bottom: 40px;
+  }
+
+  #titulo2{
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom: 40px;
+  }
+
+  #titulo3{
+    text-align: center;
+    padding-top: 55px;
+    padding-bottom: 30px;
   }
 
 #card_qs{
@@ -66,14 +78,6 @@ body {
 #tarjetas article{
     align-items: center;
     justify-content: center;
-}
-
-
-#tarjetas{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 55vh;
 }
 
 #formulario{
